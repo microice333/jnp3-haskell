@@ -153,7 +153,7 @@ Natomiast `x=1` nie jest wyrażeniem ‒ jest definicją.
 
 ### Funkcje
 
-Szczególnym rodzajem wyrażeń są *funkcje*. Podstawową operacją którą możemy wykonać przy pomocy funkcji jest zastosowanie jej do argumentów, Na przykład
+Szczególnym rodzajem wyrażeń są *funkcje*. Podstawową operacją którą możemy wykonać przy pomocy funkcji jest zastosowanie jej do argumentów. Na przykład
 
 * `rectangle` jest funkcją. Dostawszy wysokość i szerokość, produkuje obraz (prostokąt)
 * `light` jest funkcją. Dostawszy kolor, produkuje (podobny, ale jaśniejszy) kolor.
